@@ -1,2 +1,0 @@
-(this["webpackJsonpskripsi-klinik"]=this["webpackJsonpskripsi-klinik"]||[]).push([[16],{591:function(t,e,n){"use strict";n.r(e);var i=n(235),a=n(233),r=n(242),s=n(236),c=n(243),p=n(2),u=n.n(p),k=n(457),o=function(t){function e(){return Object(i.a)(this,e),Object(r.a)(this,Object(s.a)(e).apply(this,arguments))}return Object(c.a)(e,t),Object(a.a)(e,[{key:"render",value:function(){return u.a.createElement(k.a,{to:"/app"})}}]),e}(p.Component);e.default=o}}]);
-//# sourceMappingURL=views.b1d6b949.chunk.js.map
